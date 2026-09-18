@@ -1,0 +1,21 @@
+---
+title: "Tuning Selection Authority — Integration manual: TuningSelAuth_Integration Manual"
+description: "Integration manual for Tuning Selection Authority (summary)."
+---
+
+# Tuning Selection Authority — Integration manual: TuningSelAuth_Integration Manual
+
+> Source: `TuningSelAuth/doc/TuningSelAuth_Integration Manual.doc` (143,360 bytes, legacy binary Word `.doc`).
+>
+> This format was **not converted to full text**: legacy binary Word needs a full office converter (e.g. LibreOffice), which is not available in this documentation build. What follows is a structured summary from the file name and module context — the `.doc` file in the repository remains the authoritative source.
+
+## What this file most likely contains
+
+`TuningSelAuth_Integration Manual.doc` follows the naming convention for an **integration manual** for Tuning Selection Authority (`TuningSelAuth`): build wiring, generation steps, configuration parameters, Runtime Environment port wiring and integration checks.
+
+## How to read the original
+
+1. Open the `.doc` file from the repository (`TuningSelAuth/doc/TuningSelAuth_Integration Manual.doc`).
+2. Follow the generation/integration batch files in `TuningSelAuth/generate/` and `TuningSelAuth/tools/`.
+3. Verify port connections against the AUTOSAR description in `TuningSelAuth/autosar/`.
+
